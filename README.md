@@ -19,6 +19,6 @@ I created an array of the aplhaphets and repleace it with the numbers to get the
 After passing the number in the object it will check the number and replace it with the alphabets.
 First i tried to do it with the ASCII code at some point i got stucked what to do next So, I created an alphabets array and replace it with the numbers.
 
-# Bad practice in the code for production
+# some stuff to work on as time permits 
 I was getting the Undefined string before every Vanity Number.
 To address that I created a substring and remove the Undefined string form the generated Vanity Number.  I think this is not the best practice we should not get undefined if we implement the proper solution. Due to time constraint with my current project work I could not invest further time on this implementation. 
